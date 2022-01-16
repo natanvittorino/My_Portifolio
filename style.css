@@ -91,7 +91,7 @@ img{
 /*  home section styling */
 .home{
     display: flex;
-    background: url("Portifolio/nubelson3.jpg") no-repeat center;
+    background: url("../Portifolio/assets/nubelson3.jpg") no-repeat center;
     height: 700px;
     width: 1263px;
     color: #fff;
